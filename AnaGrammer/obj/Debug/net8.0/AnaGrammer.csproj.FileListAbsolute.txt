@@ -1,0 +1,14 @@
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\bin\Debug\net8.0\AnaGrammer.exe
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\bin\Debug\net8.0\AnaGrammer.deps.json
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\bin\Debug\net8.0\AnaGrammer.runtimeconfig.json
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\bin\Debug\net8.0\AnaGrammer.dll
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\bin\Debug\net8.0\AnaGrammer.pdb
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\AnaGrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\AnaGrammer.AssemblyInfoInputs.cache
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\AnaGrammer.AssemblyInfo.cs
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\AnaGrammer.csproj.CoreCompileInputs.cache
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\AnaGrammer.dll
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\refint\AnaGrammer.dll
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\AnaGrammer.pdb
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\AnaGrammer.genruntimeconfig.cache
+C:\Users\Haileyg\source\repos\AnaGrammer\AnaGrammer\obj\Debug\net8.0\ref\AnaGrammer.dll
